@@ -17,4 +17,4 @@ This talk will discuss a conceptual model to describe offensive tradecraft that 
 
 In addition to outlining my approach to describing and categorizing offensive tradecraft, this talk will announce and introduce Cartographer, a web application that displays detailed information about the lower-level operations that make up common TTPs. Cartographer is designed to package granular observations about how offensive tradecraft interacts with operating system components in a way that directly informs decisions about detection engineering and the development of more evasive attack tooling. Cartographer is primarily geared towards Windows-specific tradecraft at the moment, but the data model could be expanded to cover additional operating systems in the future.
 
-[Slides]()
+[Slides PDF](slides/x33fcon_2023_slides.pdf)
